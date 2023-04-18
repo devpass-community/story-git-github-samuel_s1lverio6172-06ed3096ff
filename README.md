@@ -1,3 +1,3 @@
 ## Contributors
 
-- Samuel Tech Lead
+- Samuel Tech Lead.
